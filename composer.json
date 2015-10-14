@@ -1,6 +1,6 @@
 {
-    "name": "sean-ren/php-thrift",
-    "description": "让Thrift使用起来更简洁",
+    "name": "sean-ren/thrift",
+    "description": "让PHP使用Thrift更简单",
     "license": "MIT",
     "keywords": ["php Thrift"],
     "version": "0.9.3",
