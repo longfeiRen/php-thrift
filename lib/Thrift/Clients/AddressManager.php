@@ -11,7 +11,7 @@
  * @link http://www.workerman.net/
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  */
-namespace Thrift\Clients\ThriftClient;
+namespace Thrift\Clients;
 /**
  *
  * address 分配器

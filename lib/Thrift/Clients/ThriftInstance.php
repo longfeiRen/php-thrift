@@ -12,7 +12,7 @@
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-namespace Thrift\Clients\ThriftClient;
+namespace Thrift\Clients;
 /**
  *
  * thrift异步客户端实例
