@@ -151,7 +151,7 @@ class ThriftClient
             $class_name = $service_name . "Client";
         }
         else if (!empty($config[$service_name]['namespace_name'])) {
-            $class_name = $config[$service_name]['namespace_name']);
+            $class_name = $config[$service_name]['namespace_name'];
         }
         else
         {
