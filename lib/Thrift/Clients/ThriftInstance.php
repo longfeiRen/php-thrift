@@ -129,7 +129,6 @@ class ThriftInstance
         $success = true;
         // 每次都重新创建一个实例
         $this->thriftInstance = $this->__instance();
-
         $callback = array($this->thriftInstance, $method_name);
         if(!is_callable($callback))
         {
