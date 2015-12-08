@@ -3,7 +3,7 @@
     "description": "让Thrift使用起来更简洁",
     "license": "MIT",
     "keywords": ["php Thrift"],
-    "version": "0.9.3",
+    "version": "v0.9.4",
     "authors": [
         {
             "name": "Sean",
