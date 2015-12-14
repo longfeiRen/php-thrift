@@ -1,6 +1,6 @@
 ### Thrift Client Api for PHP
 
-整合Thrift官方提供的包,融合workerman客户端连接并对起进行优化。
+整合Thrift官方提供的包,融合workerman客户端连接并对其进行优化。
 
 ## 包加载说明
 修改composer.json
@@ -15,7 +15,7 @@
 thrift --gen php message.thrift
 ```
 
-然后加在客户端代码，可以通过composer加载；修改composer.json：
+然后加载客户端代码，可以通过composer加载；修改composer.json：
 ```
 "autoload" : {
 		"classmap" : ["客户端代码目录"]
